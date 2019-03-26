@@ -1,8 +1,8 @@
-# Retail-Application
+# RetailApplicationReactJS
 Alfi Goyal <alfigoyal@gmail.com>
 
-```Application Screenshot1: @``` (https://github.com/AlfiGoyal/Retail-Application/blob/master/ApplicationScreenshot1.PNG)
-```Application Screenshot2: @``` (https://github.com/AlfiGoyal/Retail-Application/blob/master/ApplicationScreenshot2.PNG)
+```Application Screenshot1: @``` (https://github.com/AlfiGoyal/RetailApplicationReactJS/blob/master/ApplicationScreenshot1.PNG)
+```Application Screenshot2: @``` (https://github.com/AlfiGoyal/RetailApplicationReactJS/blob/master/ApplicationScreenshot2.PNG)
 
 ## Overview
 myRetail is a rapidly growing company with HQ in Richmond, VA and over 200 stores across the east coast. The company’s annual revenue last year was $5 billion and growing at the rate of 10% year over year. myRetail sells general merchandise products, including a fast growing fresh grocery segment. The stores average 80,000 sq. ft. in size and carry around 20,000 products. myRetail wants to provide a multi-channel experience for its customers online. myRetail is comparing solution options for the online grocery store. Create a web application that does the following: 
@@ -21,8 +21,8 @@ Deliverables:
 
 ## Environment Setup
 1. Make sure you have Nodejs installed in your machine. If not, download the same from the link: (https://nodejs.org/en/)
-2. Clone/Download the Retail-Application repository.
-3. Open command prompt and go to Retail-Application directory.
+2. Clone/Download the RetailApplicationReactJS repository.
+3. Open command prompt and go to RetailApplicationReactJS directory.
 4. Run the command ```npm install```. That would also install cypress js for running the testcases.
 5. Next run the command ```npm start``` to launch the application. It will automatically open (http://localhost:3000) in your browser. It works well on Google chrome as of now.
 6. Open another command prompt and run ```npx cypress open``` to run the automated testcases. Click on run all specs button which would automatically start running your test cases.
@@ -46,6 +46,6 @@ Deliverables:
 ```Done:``` Automation test cases using cypress js. A lot of test cases could be written for the same but given the time constraint, I have written test cases testing quantity of product increasing decreasing on + and - button clicks, title, price of product, etc.
 #### 2. Build your code and package using gulp, grunt or other tools of your choice. 
 #### 3. Provide approach to deploy code in live environment - continuous delivery flow diagram will suffice. 
-```Done:``` Added a ppt of a continuous delivery flow diagram - ContinuousDelivery.pptx in the repo (https://github.com/AlfiGoyal/Retail-Application/blob/master/ContinuousDelivery.pptx)
+```Done:``` Added a ppt of a continuous delivery flow diagram - ContinuousDelivery.pptx in the repo (https://github.com/AlfiGoyal/RetailApplicationReactJS/blob/master/ContinuousDelivery.pptx)
 #### 4. Store code in a public git repository like GitHub, GitLab, BitBucket, or Visual Studio Team Services and forward link to Staffing Specialist and Recruiter. 
-``` Done:``` Commited the application on github (https://github.com/AlfiGoyal/Retail-Application)
+``` Done:``` Commited the application on github (https://github.com/AlfiGoyal/RetailApplicationReactJS)
