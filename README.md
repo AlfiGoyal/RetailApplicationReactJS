@@ -2,6 +2,7 @@
 Alfi Goyal <alfigoyal@gmail.com>
 
 ```Application Screenshot1: @``` (https://github.com/AlfiGoyal/RetailApplicationReactJS/blob/master/ApplicationScreenshot1.PNG)
+
 ```Application Screenshot2: @``` (https://github.com/AlfiGoyal/RetailApplicationReactJS/blob/master/ApplicationScreenshot2.PNG)
 
 ## Overview
