@@ -1,0 +1,57 @@
+{
+  "name": "target-interview",
+  "version": "1.0.0",
+  "description": "Target Case Study",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0",
+    "react": "^16.8.4",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-dom": "^16.8.4",
+    "react-moment": "^0.8.4",
+    "react-render-html": "^0.6.0",
+    "react-responsive-carousel": "^3.1.47",
+    "react-scripts": "^2.1.8",
+    "react-slick": "^0.23.2",
+    "react-star-rating-component": "^1.4.1",
+    "react-star-ratings": "^2.3.0",
+    "react-testing-library": "^6.0.2",
+    "semantic-ui-react": "^0.86.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/polyfill": "^7.4.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^8.0.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^2.1.1",
+    "cypress": "^3.2.0",
+    "file-loader": "^3.0.1",
+    "image-webpack-loader": "^4.6.0",
+    "style-loader": "^0.23.1",
+    "to-string-loader": "^1.1.5",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "npx cypress open",
+    "webpack": "webpack"
+  },
+  "author": "Alfi Goyal",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
