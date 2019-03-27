@@ -25,7 +25,7 @@ Deliverables:
 2. Clone/Download the RetailApplicationReactJS repository.
 3. Open command prompt and go to RetailApplicationReactJS directory.
 4. Run the command ```npm install```. That would also install cypress js for running the testcases.
-5. Next run the command ```npm start``` to launch the application. It will automatically open (http://localhost:3000) in your browser. It works well on Google chrome as of now.
+5. Next run the command ```npm start``` to launch the application. It will automatically open (http://localhost:3000) in your browser.
 6. Open another command prompt and run ```npm test``` to run the automated testcases. Click on run all specs button which would automatically start running your test cases.
 
 ## Status of Project Deliverables
